@@ -1,12 +1,25 @@
 
 
 h1 {
-    font-family: "Anton", sans-serif;
-    font-weight: 400;
     font-size: 250px;
+    margin-top: -80px;
+    margin-left: -8px;
+}
+h2 {
+    font-size: 40px;
+    margin-bottom: 0;
 }
 
-.title {
-    margin-left: 20rem;
-    
+.title-div {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    margin-left: 45vw;
+    margin-top: 10vh;
+}
+
+.image {
+    position: absolute;
+    z-index: -1;
+    top: 9vh;
+    left: -5px;
 }
